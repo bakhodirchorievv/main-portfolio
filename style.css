@@ -144,8 +144,15 @@ ul{
     list-style: none;
 }
 .list-item2:hover{
-color: white;
+color: rgb(167,190,174);
 }
 .same{
     margin-top: 39px;
+}
+.email-link{
+    text-decoration: none;
+    color: #333;
+}
+.email-link:hover{
+    color: white;
 }
