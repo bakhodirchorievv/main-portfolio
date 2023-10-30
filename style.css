@@ -115,7 +115,7 @@ color:black;
     color: #333;
 }
 .number:hover{
-    color: white;
+    color: yellow;
 }
 .star{
     display: inline-block;
