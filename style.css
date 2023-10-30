@@ -110,6 +110,9 @@ color:black;
     word-spacing: 5px;
     color: #333;
 }
+.locatio:hover{
+    color: white;
+}
 .number{
     text-decoration: none;
     color: #333;
@@ -148,4 +151,8 @@ color: white;
 }
 .email-link:hover{
     color: #fff;
+}
+.hello{
+    font-family: sans-serif;
+    color: blue;
 }
