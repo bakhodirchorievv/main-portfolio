@@ -110,9 +110,6 @@ color:black;
     word-spacing: 5px;
     color: #333;
 }
-.location:hover{
-    color: white;
-}
 .number{
     text-decoration: none;
     color: #333;
@@ -124,10 +121,6 @@ color:black;
     display: inline-block;
     width: 16px;
     height: 16px;
-}
-.star:hover{
-    background-color: white;
-    border-radius: 50%;
 }
 .list-item2{
     display: flex;
@@ -154,5 +147,5 @@ color: white;
     color: #333;
 }
 .email-link:hover{
-    color: white;
+    color: #fff;
 }
