@@ -149,3 +149,10 @@ color: white;
 .same{
     margin-top: 39.5px;
 }
+.email-link{
+    text-decoration: none;
+    color: #333;
+}
+.email-link:hover{
+    color: white;
+}
